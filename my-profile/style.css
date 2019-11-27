@@ -1,0 +1,46 @@
+a {
+  color: green;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  text-shadow: inherit;
+}
+
+body {
+    color: darkgoldenrod;
+    font-size: 60px;
+    font-family: Courier;
+    text-align: center;
+}
+body {
+    background-image: url(image/gold.jpg);
+}
+.perfect-circle {
+  width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+div {
+    padding: 15px;
+    width: 1112px;
+    height: 333px;
+   	background: white;
+    border: 5px outset darkgoldenrod;
+    margin: 20px;
+    border-radius: 15px;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: darkgoldenrod ;
+}
+.text-center {
+	text-align: center;
+}
+#bordergpa {
+	border: 3px outset darkgoldenrod;
+	border-radius: 15px;
+}
+#pp {
+	border: 3px outset darkgoldenrod;
+	border-radius: 15px;
+}
